@@ -1,0 +1,28 @@
+.row{
+    height: 600px;
+    width: 800px;
+    /* background-color: gray; */
+    position: relative;
+}
+.col{
+    top: 100px;
+    width: 100px;
+    height: 450px;
+    border: black dotted 2px;
+    position: absolute;
+
+}
+.col-1{
+    background-color: yellow;
+    left: 110px;
+}
+.col-2{
+    background-color: rgb(250, 121, 15);
+    left: 220px;
+}.col-3{
+    background-color: rgb(10, 230, 40);
+    left: 330px;
+}.col-4{
+    background-color: rgb(15, 114, 228);
+    left: 440px;
+}
